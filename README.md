@@ -1,2 +1,2 @@
-# git practice with precedence of clonning
+# Git practice with precedence of clonning
 test
